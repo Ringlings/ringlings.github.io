@@ -25,3 +25,7 @@ body {
     /* Same as the width of the sidebar */
     padding: 0px 10px;
 }
+
+.emoji {
+    max-height: 18px;
+}
